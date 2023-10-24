@@ -1,0 +1,52 @@
+.row{
+    padding: 1rem;
+}
+.fruiticon{
+    vertical-align: middle;
+    border-style: none;
+    height: 75px;
+    border-radius: 2rem;
+    margin-top: 5px;
+}
+.fruitcart{
+    font-size: 4rem;
+    font-style: italic;
+    color: white;
+}
+.navbar{
+    margin-top: 2%;
+    margin-left: auto;
+}
+.option{
+    font-size: x-large;
+}
+.were{
+    color: white;
+    margin-top: 0rem;
+    margin-left: 58rem;
+    font-size: x-large;
+    font-style: oblique;
+    padding-top: 13rem;
+}
+.heding{
+    font-size: -webkit-xxx-large;
+    font-style: oblique;
+    margin-top: -3rem;
+}
+.button{
+    margin-left: 4rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.rupee{
+    font-size: x-large;
+}
+.signin{
+    margin-left: 0rem;
+    margin-left: 12rem;
+    margin-top: -2rem;
+}
+.logos{
+    align-items: center;
+    font-family: -2px;
+}
